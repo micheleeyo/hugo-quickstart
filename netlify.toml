@@ -10,7 +10,7 @@
 
 
   [plugins.inputs.postBuild]
-    enable = true
+    enable = false
 
   [plugins.inputs]
     enable = false
